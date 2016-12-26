@@ -1,0 +1,10 @@
+C:\Users\Nick\Desktop\dev\MEngine\MEngine.Core\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Nick\Desktop\dev\MEngine\MEngine.Core\bin\DesktopGL\x86\Debug\MEngine.Core.exe
+C:\Users\Nick\Desktop\dev\MEngine\MEngine.Core\bin\DesktopGL\x86\Debug\MEngine.Core.pdb
+C:\Users\Nick\Desktop\dev\MEngine\MEngine.Core\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Nick\Desktop\dev\MEngine\MEngine.Core\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Nick\Desktop\dev\MEngine\MEngine.Core\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Nick\Desktop\dev\MEngine\MEngine.Core\obj\x86\Debug\MEngine.Core.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\dev\MEngine\MEngine.Core\obj\x86\Debug\MEngine.Core.exe
+C:\Users\Nick\Desktop\dev\MEngine\MEngine.Core\obj\x86\Debug\MEngine.Core.pdb
+C:\Users\Nick\Desktop\dev\MEngine\MEngine.Core\bin\DesktopGL\x86\Debug\Content\fpscounter.xnb
